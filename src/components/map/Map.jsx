@@ -57,7 +57,7 @@ const Map = ({
                     {' '}
                     {place.name}
                   </Typography>
-                  <img
+                  <img alt=''
                     className={classes.pointer}
                     src={
                       place.photo
